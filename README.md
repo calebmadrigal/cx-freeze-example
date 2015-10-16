@@ -8,9 +8,7 @@ Example of using cx_Freeze to turn a python script into a distributable native b
 
     python setup.py build
 
-The distributable binary will be in the build folder.
-
-Note that this single config will build for Windows, OS X, and Linux.
+The distributable binary will be in the build folder. Note that this single config will build for Windows, OS X, and Linux.
 
 #### Distribute
 
